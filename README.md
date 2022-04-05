@@ -2,8 +2,6 @@
 [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 # Code will be available after paper publication.
 
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/f8BAn7PR4pE/0.jpg)](http://www.youtube.com/watch?v=f8BAn7PR4pE ) -->
+[![Watch the video](http://img.youtube.com/vi/f8BAn7PR4pE/0.jpg)](http://www.youtube.com/watch?v=f8BAn7PR4pE )
 
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
