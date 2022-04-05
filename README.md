@@ -20,4 +20,10 @@ Technion – Israel Institute of Technology
 </h4>
 </div>
 
-https://raw.githubusercontent.com/woshidandan/xiaohe/gh-pages/Realtime.mp4
+
+
+```HTML
+<video width="320" height="240" controls>
+    <source src="https://raw.githubusercontent.com/woshidandan/xiaohe/gh-pages/Realtime.mp4" type="video/mp4">
+</video>
+```
